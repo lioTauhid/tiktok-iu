@@ -19,7 +19,7 @@ Add emojis
 
 Study the UIs to understand the tasks.
 
-![alt Figma](http://url/to/img.png)
+![alt Figma](https://github.com/lioTauhid/tiktok-iu/blob/main/Dev%20Test.png)
 
 
 
