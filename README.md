@@ -1,16 +1,25 @@
 # tiktok_ui
 
-A new Flutter project.
+Test Instruction:
+Implement the following designs using Flutter as per the UI’s given. The app is a short video app like Tiktok. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A)) Home
 
-A few resources to get you started if this is your first Flutter project:
+Create home with the “hide/unhide” the bottom navigation menu functionality.
+Interactions on the side (chat, share, like etc)
+You should be able to show the post caption with its “view more” and “view less” functionality
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+B)) Menu Bar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+C)) Comments
+View comment
+Reply comment
+Add emojis
+
+Study the UIs to understand the tasks.
+
+![alt Figma](http://url/to/img.png)
+
+
+
